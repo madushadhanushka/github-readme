@@ -139,6 +139,7 @@ jobs:
 <a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=madushadhanushka/simple-sqlite"/>
 </a>
+
 ---
 
 ### GitHub trophy
@@ -146,6 +147,7 @@ jobs:
 <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
 ```
 <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
+
 ---
 
 ### GitHub followers
@@ -163,6 +165,7 @@ jobs:
 <img alt="followers" src="https://img.shields.io/github/followers/madushadhanushka?label=Followers&style=social">
 ```
 <img alt="followers" src="https://img.shields.io/github/followers/madushadhanushka?label=Followers&style=social">
+
 ---
 
 ### Total stars
@@ -170,6 +173,7 @@ jobs:
 <img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars">
 ```
 <img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars">
+
 ---
 
 ### Twitter followers
@@ -182,6 +186,7 @@ jobs:
 <img src="https://img.shields.io/twitter/follow/dhanushkadev?logo=twitter&style=for-the-badge" alt="dhanushkadev" />
 ```
 <img src="https://img.shields.io/twitter/follow/dhanushkadev?logo=twitter&style=for-the-badge" alt="dhanushkadev" />
+
 ---
 
 ### Generate random jokes
@@ -189,6 +194,7 @@ jobs:
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 ```
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
 ---
 
 ### Spotify playing
@@ -196,6 +202,7 @@ jobs:
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 ```
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+
 ---
 
 ### Social media links
@@ -211,7 +218,9 @@ jobs:
 <a href="https://www.facebook.com/dhanushka.madushan.37" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/playlist/37i9dQZF1DWYfNJLV7OBMA" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://dev.to/dhanushkadev" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+
 ---
+
 ### Profile view count
 ```
 <img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
@@ -232,7 +241,9 @@ jobs:
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
 ```
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
+
 ---
+
 ### Using custom labels
 You can use shield.io to generate custom labels.
 ```
@@ -243,6 +254,7 @@ Following is an example use of
 <img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
 ```
 <img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
+
 ---
 
 ### LeetCode stats
@@ -250,6 +262,7 @@ Following is an example use of
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://github.com/madushadhanushka/github-readme)
 ```
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://github.com/madushadhanushka/github-readme)
+
 ---
 
 ### Codewar stats
@@ -257,4 +270,5 @@ Following is an example use of
 [![Codewars Badge](https://www.codewars.com/users/dhanushka/badges/large)](https://www.codewars.com/users/dhanushka)
 ```
 [![Codewars Badge](https://www.codewars.com/users/dhanushka/badges/large)](https://www.codewars.com/users/dhanushka)
+
 ---
