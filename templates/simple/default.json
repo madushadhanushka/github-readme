@@ -1,0 +1,50 @@
+{
+   "firstName":"Dhanushka",
+   "lastName":"Madushan",
+   "githubUsername":"madushadhanushka",
+   "headLine":"I'm a Developer, Blogger and Open Source enthusiastic!",
+   "currentStatusList":[
+      "🔭 I’m currently working on a Integration and API managment!",
+      "🌱 I’m currently learning everything 🤣",
+      "👯 I’m looking to collaborate with other developers",
+      "🥅 2021 Goals: Contribute more to Open Source projects",
+      "⚡ Fun fact: I love to play guitar"
+   ],
+   "website_link":"http://devform.netlify.com/",
+   "youtubeLink":"https://www.youtube.com/channel/UCBy8HwGXUnM60EOj9sDcz-g",
+   "twitterLink":"https://twitter.com/DhanushkaDEV",
+   "linkedinLink":"https://www.linkedin.com/in/dhanushkamadushan",
+   "instagramLink":"https://www.instagram.com/dhanushka_m/",
+   "languageAndTools":{
+      "html5":true,
+      "css3":true,
+      "sass":true,
+      "javascript":true,
+      "react":true,
+      "nodejs":true,
+      "sql":true,
+      "mysql":true,
+      "mongodb":true,
+      "git":true,
+      "github":true,
+      "terminal":true
+   },
+   "featuredBlogs":[
+      {
+         "blogLink":"https://medium.com/technology-in-essence/developing-ballerina-project-with-ballerina-cli-tool-66cb6ebf5111",
+         "blogTitle":"Developing Ballerina project with Ballerina CLI tool"
+      },
+      {
+         "blogLink":"https://medium.com/@madushandhanushka/learning-git-concept-by-hacking-github-e4993049c6b0",
+         "blogTitle":"Learning Git Concept by Hacking Github"
+      },
+      {
+         "blogLink":"https://medium.com/@madushandhanushka/wso2-synapse-handlers-64b34af06cbb",
+         "blogTitle":"WSO2 Synapse Handlers"
+      },
+      {
+         "blogLink":"https://medium.com/hackernoon/gentle-introduction-to-the-envoy-proxy-and-load-balancing-b3e3eb72c71f",
+         "blogTitle":"Gentle Introduction to the Envoy Proxy and Load-balancing"
+      }
+   ]
+}

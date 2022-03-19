@@ -1,0 +1,125 @@
+{
+   "title":"Simple theme",
+   "description":"Simple theme",
+   "type":"object",
+   "required":[
+      "firstName",
+      "githubUsername"
+   ],
+   "properties":{
+      "firstName":{
+         "type":"string",
+         "title":"First name"
+      },
+      "lastName":{
+         "type":"string",
+         "title":"Last name"
+      },
+      "githubUsername":{
+         "type":"string",
+         "title":"Github username"
+      },
+      "headLine":{
+         "type":"string",
+         "title":"Head line"
+      },
+      "currentStatusList":{
+         "type":"array",
+         "title":"Current status",
+         "items":{
+            "type":"string"
+         }
+      },
+      "website_link":{
+         "type":"string",
+         "title":"Website link"
+      },
+      "youtubeLink":{
+         "type":"string",
+         "title":"Youtube channel link"
+      },
+      "twitterLink":{
+         "type":"string",
+         "title":"Twitter profile link"
+      },
+      "linkedinLink":{
+         "type":"string",
+         "title":"Linkedin profile link"
+      },
+      "instagramLink":{
+         "type":"string",
+         "title":"Instagram profile link"
+      },
+      "languageAndTools":{
+         "title":"Language and tools",
+         "type":"object",
+         "properties":{
+            "html5":{
+               "type":"boolean",
+               "title":"HTML5"
+            },
+            "css3":{
+               "type":"boolean",
+               "title":"CSS3"
+            },
+            "sass":{
+               "type":"boolean",
+               "title":"SASS"
+            },
+            "javascript":{
+               "type":"boolean",
+               "title":"Javascript"
+            },
+            "react":{
+               "type":"boolean",
+               "title":"React"
+            },
+            "nodejs":{
+               "type":"boolean",
+               "title":"Node.js"
+            },
+            "sql":{
+               "type":"boolean",
+               "title":"SQL"
+            },
+            "mysql":{
+               "type":"boolean",
+               "title":"MySQL"
+            },
+            "mongodb":{
+               "type":"boolean",
+               "title":"MongoDB"
+            },
+            "git":{
+               "type":"boolean",
+               "title":"Git"
+            },
+            "github":{
+               "type":"boolean",
+               "title":"GitHub"
+            },
+            "terminal":{
+               "type":"boolean",
+               "title":"Terminal"
+            }
+         }
+      },
+      "featuredBlogs":{
+         "type":"array",
+         "title":"Featured blog posts",
+         "items":{
+            "type":"object",
+            "properties":{
+               "blogTitle":{
+                  "type":"string",
+                  "title":"Blog title"
+               },
+               "blogLink":{
+                  "type":"string",
+                  "title":"Blog Link"
+               }
+            }
+         }
+      }
+   }
+}
