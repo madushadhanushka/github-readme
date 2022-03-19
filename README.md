@@ -11,17 +11,23 @@ Happy code!
 ```
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=madushadhanushka&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
+---
+
 ### GitHub top languages
 ```
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 ```
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+---
+
 ### Longest streak stats
 ```
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
 ```
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+
+---
 
 ### List projects
 ```
@@ -76,13 +82,54 @@ Happy code!
   </tbody>
 </table>
 
+---
+
 ### GitHub contribution graph
 ```
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=madushadhanushka&theme=react-dark&hide_border=true&area=true)
 ```
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=madushadhanushka&theme=react-dark&hide_border=true&area=true)
 
-## GitHub repository contributors
+---
+
+### Snake animation
+
+```
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+```
+Use the following GitHub action yml definition:
+```
+name: Contribution snake
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to update snake grid
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: madushadhanushka
+          svg_out_path: dist/github-contribution-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+
+---
+
+### GitHub repository contributors
 ```
 <a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=madushadhanushka/simple-sqlite"/>
@@ -92,12 +139,14 @@ Happy code!
 <a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=madushadhanushka/simple-sqlite"/>
 </a>
+---
 
 ### GitHub trophy
 ```
 <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
 ```
 <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
+---
 
 ### GitHub followers
 ```
@@ -114,12 +163,14 @@ Happy code!
 <img alt="followers" src="https://img.shields.io/github/followers/madushadhanushka?label=Followers&style=social">
 ```
 <img alt="followers" src="https://img.shields.io/github/followers/madushadhanushka?label=Followers&style=social">
+---
 
 ### Total stars
 ```
 <img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars">
 ```
 <img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars">
+---
 
 ### Twitter followers
 ```
@@ -131,18 +182,21 @@ Happy code!
 <img src="https://img.shields.io/twitter/follow/dhanushkadev?logo=twitter&style=for-the-badge" alt="dhanushkadev" />
 ```
 <img src="https://img.shields.io/twitter/follow/dhanushkadev?logo=twitter&style=for-the-badge" alt="dhanushkadev" />
+---
 
 ### Generate random jokes
 ```
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 ```
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+---
 
 ### Spotify playing
 ```
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 ```
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+---
 
 ### Social media links
 ```
@@ -157,7 +211,7 @@ Happy code!
 <a href="https://www.facebook.com/dhanushka.madushan.37" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/playlist/37i9dQZF1DWYfNJLV7OBMA" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://dev.to/dhanushkadev" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-
+---
 ### Profile view count
 ```
 <img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
@@ -178,7 +232,7 @@ Happy code!
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
 ```
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
-
+---
 ### Using custom labels
 You can use shield.io to generate custom labels.
 ```
@@ -189,15 +243,18 @@ Following is an example use of
 <img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
 ```
 <img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
+---
 
 ### LeetCode stats
 ```
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://github.com/madushadhanushka/github-readme)
 ```
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://github.com/madushadhanushka/github-readme)
+---
 
 ### Codewar stats
 ```
 [![Codewars Badge](https://www.codewars.com/users/dhanushka/badges/large)](https://www.codewars.com/users/dhanushka)
 ```
 [![Codewars Badge](https://www.codewars.com/users/dhanushka/badges/large)](https://www.codewars.com/users/dhanushka)
+---
