@@ -167,6 +167,52 @@ jobs:
 <img alt="followers" src="https://img.shields.io/github/followers/madushadhanushka?label=Followers&style=social">
 
 ---
+### Top Github followers
+Create the following GitHub actions
+```
+name: Get Top Followers
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 22 * * *'
+  workflow_dispatch:
+
+jobs:
+  top-followers:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.8
+      - name: Install requests
+        run: pip install requests
+      - name: Update README
+        run: python src/getTopFollowers.py ${{ github.repository_owner }} ${{ secrets.GITHUB_TOKEN }} README.md
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "Update top followers"
+      - name: Pull changes
+        run: git pull -r
+      - name: Push changes
+        uses: ad-m/github-push-action@b007e7b818e33b04afd056e4c4b57ba917145d7a
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+```
+Now add the following into your readme page
+```
+<!--START_SECTION:top-followers-->
+<!--END_SECTION:top-followers-->
+```
+<!--START_SECTION:top-followers-->
+<!--END_SECTION:top-followers-->
+---
 
 ### Total stars
 ```
