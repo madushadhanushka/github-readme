@@ -1,6 +1,7 @@
 # GitHub Readme Widgets
 This repository contain a collection of GitHub widgets that you can used to build your GitHub home page. Copy past the selected widget on your home page md file and change the parameters appropriately.
-If you found any interresting widgets? Then create a pull request and let know other programmers as well.
+
+**If you have any interresting widgets? Then create a pull request and let know other programmers as well.**
 
 >
 Happy code!
