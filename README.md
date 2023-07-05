@@ -1,3 +1,4 @@
+
 # GitHub Readme Widgets
 This repository contain a collection of GitHub widgets that you can used to build your GitHub home page. Copy past the selected widget on your home page md file and change the parameters appropriately.
 
@@ -25,6 +26,16 @@ Happy code!
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 ```
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+---
+
+### GitHub All Stats
+<img src="https://myreadme.vercel.app/api/embed/pressjump?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+```
+<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+```
+Replace "YOURUSERNAME" in the URL with your GitHub user name. The panels can also be rearranged using url parameters. Find out more at https://github.com/PressJump/reimaginedreadme
 
 ---
 
