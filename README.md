@@ -241,6 +241,11 @@ jobs:
 
 ### Profile view count
 ```
+<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+```
+<img src="https://widgetbite.com/stats/1ae3e3ba-cbeb-4ec8-9884-7e3bdc1041a9" alt="watching_count" />
+
+```
 <img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
 ```
 <img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
