@@ -192,6 +192,15 @@ jobs:
 ```
 <img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars">
 
+### Dark themed star history graph
+```
+![star-history](https://api.lucabubi.me/chart?username=USERNAME&repository=REPOSITORY&color=COLOR)
+```
+
+![star-history](https://api.lucabubi.me/chart?username=madushadhanushka&repository=github-readme&color=violet)
+
+Find out more at https://github.com/lucabubi/star-history
+
 ---
 
 ### Twitter followers
