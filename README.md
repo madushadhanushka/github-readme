@@ -35,10 +35,25 @@ Happy code!
 ```
 <a href='https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9' target='_blank'><img src="https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9.png" alt="Facebook React velocity past 12 months" /></a>
 
-Show repo velocity over a configurable time range. [More details](https://www.gitclear.com/github_profile_dynamic_readme_free) or [video setup for GitHub Sponsors](https://www.youtube.com/watch?v=r6ELGM4PcuA)
+Show repo velocity over a configurable time range. [Sign up for perma-free GitHub Profile widget & choose repos to show](https://www.gitclear.com/github_profile_dynamic_readme_free) or [3 min video walkthrough for GitHub Sponsor devs](https://www.youtube.com/watch?v=r6ELGM4PcuA).
+
+If you have a repo with 1,000 stars, contact hello@gitclear.com for personalized setup help. 
 
 ---
 
+### GitClear Visual Changelog Widget
+```
+<img src='https://www.gitclear.com/snap_changelogs/b02dd34c-b375-42b5-a1c0-bbfaac42917b.png' />
+```
+<a href='https://www.gitclear.com/snap_changelogs/b02dd34c-b375-42b5-a1c0-bbfaac42917b' target='_blank'><img src='https://www.gitclear.com/snap_changelogs/b02dd34c-b375-42b5-a1c0-bbfaac42917b.png' /></a>
+
+Show a visual changelog for a committer, or repo(s). Uses AI to interpret uploaded screenshots with recent work ✨  
+
+[Signup for a free GitHub Profile widget (+ pick repos)](https://www.gitclear.com/github_profile_dynamic_readme_free)
+
+[Optional in-depth explainer on how screenshots are mapped to work](https://www.gitclear.com/blog/how_we_built_an_automatic_changelog_generator_for_github_open_source) or [video showing how visual changelogs work](https://www.youtube.com/watch?v=xKs0vknhJis),
+
+---
 ### GitHub All Stats
 <img src="https://myreadme.vercel.app/api/embed/pressjump?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
