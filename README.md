@@ -29,6 +29,16 @@ Happy code!
 
 ---
 
+### GitClear Free GitHub Profile Velocity Widget
+```
+<img src='https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9.png' />
+```
+<a href='https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9' target='_blank'><img src="https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9.png" alt="Facebook React velocity past 12 months" /></a>
+
+Show repo velocity over a configurable time range. [More details](https://www.gitclear.com/github_profile_dynamic_readme_free) or [video setup for GitHub Sponsors](https://www.youtube.com/watch?v=r6ELGM4PcuA)
+
+---
+
 ### GitHub All Stats
 <img src="https://myreadme.vercel.app/api/embed/pressjump?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
