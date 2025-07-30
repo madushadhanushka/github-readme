@@ -217,6 +217,12 @@ jobs:
 ```
 <img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars">
 
+```
+[![Star History Chart](https://api.star-history.com/svg?repos=Significant-Gravitas/AutoGPT,madushadhanushka/github-readme&type=Date)](https://www.star-history.com/#Significant-Gravitas/AutoGPT&madushadhanushka/github-readme&Date)
+```
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Significant-Gravitas/AutoGPT,madushadhanushka/github-readme&type=Date)](https://www.star-history.com/#Significant-Gravitas/AutoGPT&madushadhanushka/github-readme&Date)
+
 ### Dark themed star history graph
 ```
 ![star-history](https://api.lucabubi.me/chart?username=USERNAME&repository=REPOSITORY&color=COLOR)
